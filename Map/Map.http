@@ -1,0 +1,6 @@
+@Map_HostAddress = http://localhost:5201
+
+GET {{Map_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
